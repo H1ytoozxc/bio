@@ -21,11 +21,11 @@
 
 <br><br>
 
-<a href="https://discord.com/users/H1yoto">
+<a href="https://discord.com/users/996753704768254052">
   <img src="https://img.shields.io/badge/Discord-%23403F9A?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://open.spotify.com">
+<a href="https://open.spotify.com/user/31r4dqre7auoitfocbhs4serhwei?si=1b1c8079b9314e02">
   <img src="https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
