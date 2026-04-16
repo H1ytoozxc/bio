@@ -13,6 +13,6 @@
 <br><br>
     
 
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/Discord-#403F9A)](https://discord.com/channels/@me/h1yoto)
+[![](https://img.shields.io/badge/spotify-#9FDE75)](https://open.spotify.com/user/31r4dqre7auoitfocbhs4serhwei?si=88cc1a32b4a8432e)
 </div>
