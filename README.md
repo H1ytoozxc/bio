@@ -10,6 +10,6 @@
 <br><br>
     
 
-[Discord[](https://img.shields.io/badge/Discord-#403F9A)](https://discord.com/channels/@me/h1yoto)
-[Spotify[](https://img.shields.io/badge/spotify-#9FDE75)](https://open.spotify.com/user/31r4dqre7auoitfocbhs4serhwei?si=88cc1a32b4a8432e)
+[![](https://img.shields.io/badge/Discord-#403F9A)](https://discord.com/channels/@me/h1yoto)
+[![](https://img.shields.io/badge/spotify-#9FDE75)](https://open.spotify.com/user/31r4dqre7auoitfocbhs4serhwei?si=88cc1a32b4a8432e)
 </div>
